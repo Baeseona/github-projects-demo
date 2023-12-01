@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>쇼핑몰 홈</title>
+      <title>show핑몰 홈</title>
     </head>
     <body>
       <h1>Welcome to our Shopping Mall</h1>
